@@ -5,11 +5,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@jsjoeio/react-use-the-things": "file:..",
     "prop-types": "^15.6.2",
     "react": "file:../node_modules/react",
     "react-dom": "^16.8.6",
-    "react-scripts": "^3.0.0",
-    "@jsjoeio/react-use-the-things": "file:.."
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
